@@ -2,6 +2,7 @@
 
 Meu nome é Alexandre Henrique Silva
 
+- Licenciado em Física pela [Univesidade Federal do Paraná](https://www.ufpr.br).
 - Leciono os componentes curriculares de Física, Pensamento Computacional e Robótica na rede pública de ensino do Estado do Paraná.
 - Utilizo a plataforma [Alura](https://www.alura.com.br) para aperfeiçoar as habilidades relacionadas à programação que já domino e também para aprender sobre assuntos relacionados às TIC's em sala de aula. 
 - Estou me desenvolvendo nas linguagens C, C++, Python, Latex, JavaScript, HTML e CSS.
