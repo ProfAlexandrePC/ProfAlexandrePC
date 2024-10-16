@@ -2,9 +2,9 @@
 
 Meu nome é Alexandre Henrique Silva
 
-- Licenciado em Física pela [Univesidade Federal do Paraná](https://www.ufpr.br). 🤓
+- Licenciado em Física pela [Universidade Federal do Paraná](https://www.ufpr.br). 🤓
 - Leciono os componentes curriculares de Física, Pensamento Computacional e Robótica na rede pública de ensino do Estado do Paraná. 👨‍🏫
-- Utilizo a plataforma [Alura](https://www.alura.com.br) para aperfeiçoar as habilidades relacionadas à programação que já domino e também para aprender sobre assuntos relacionados às TIC's em sala de aula. 
+- Utilizo a plataforma [Alura](https://www.alura.com.br) para aperfeiçoar as habilidades relacionadas a programação e aprender e aplicar o uso das TIC's em sala de aula. 
 - Estou me desenvolvendo nas linguagens C, C++, Python, Latex, JavaScript, HTML e CSS. 🧑‍💻
 - Utilizo este epaço para minha organização e compratilhamento dos meus projetos.
 - Praticante de ciclismo e voleibol nas horas vagas. 🚴 🏐 
@@ -24,7 +24,7 @@ alexandre.silva3@escola.pr.gov.br
 ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
 
 
 <!--
