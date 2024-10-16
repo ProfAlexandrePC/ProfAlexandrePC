@@ -6,7 +6,7 @@ Meu nome é Alexandre Henrique Silva
 - Leciono os componentes curriculares de Física, Pensamento Computacional e Robótica na rede pública de ensino do Estado do Paraná. 👨‍🏫
 - Utilizo a plataforma [Alura](https://www.alura.com.br) para aperfeiçoar as habilidades relacionadas a programação e aprender e aplicar o uso das TIC's em sala de aula. 
 - Estou me desenvolvendo nas linguagens C, C++, Python, Latex, JavaScript, HTML e CSS. 🧑‍💻
-- Utilizo este epaço para minha organização e compratilhamento dos meus projetos.
+- Utilizo este espaço para minha organização e compratilhamento dos meus projetos.
 - Praticante de ciclismo e voleibol nas horas vagas. 🚴 🏐 
 
 ### Você pode entrar em contato comigo 📫
