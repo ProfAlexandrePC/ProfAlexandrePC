@@ -24,7 +24,7 @@ alexandre.silva3@escola.pr.gov.br
 ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
+![](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
 
 <!--
