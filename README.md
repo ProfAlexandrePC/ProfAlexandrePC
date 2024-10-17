@@ -26,6 +26,8 @@ alexandre.silva3@escola.pr.gov.br
 
 ![](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
+![](https://media1.tenor.com/m/z8PwDkEcriwAAAAC/laugh-mew.gif)
+
 
 <!--
 **ProfAlexandrePC/ProfAlexandrePC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
