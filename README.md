@@ -9,7 +9,7 @@ Meu nome é Alexandre Henrique Silva
 - Utilizo este espaço para minha organização e compratilhamento dos meus projetos.
 - Praticante de ciclismo e voleibol nas horas vagas. 🚴 🏐 
 
-### Você pode entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫 
 
 alexandre.silva3@escola.pr.gov.br
 
