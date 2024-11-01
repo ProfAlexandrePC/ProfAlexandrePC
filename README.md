@@ -11,7 +11,7 @@ Meu nome é Alexandre Henrique Silva
 
 ### Você pode entrar em contato comigo 📫 
 
-alexandre.silva3@escola.pr.gov.br
+alexandre.silva3@escola.pr.gov.br 
 
 
 ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
